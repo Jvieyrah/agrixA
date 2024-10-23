@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-a/src/main/java/com/betrybe/agrix/model/repository/CropRepository.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-a/src/main/java/com/betrybe/agrix/model/repository/FarmRepository.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-a/src/main/java/com/betrybe/agrix/model/entity/Crop.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-a/src/main/java/com/betrybe/agrix/model/entity/Farm.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-a/src/main/java/com/betrybe/agrix/controller/FarmController.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-a/src/main/java/com/betrybe/agrix/controller/dto/CropRequestDto.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-a/src/main/java/com/betrybe/agrix/controller/dto/FarmRequestDto.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-a/src/main/java/com/betrybe/agrix/AgrixApplication.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-a/src/main/java/com/betrybe/agrix/service/FarmService.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-a/src/main/java/com/betrybe/agrix/advice/GlobalControllerAdvice.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-a/src/main/java/com/betrybe/agrix/exceptions/NotFoundException.java">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-a/src/main/resources/application.properties">
+</file>
+<file name="/home/joao/Documents/trybe/java/java-001-projeto-final-agrix-fase-a/src/test/resources/application-test.properties">
+</file>
+</checkstyle>

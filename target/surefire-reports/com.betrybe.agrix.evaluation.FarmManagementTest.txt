@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Req 01-03
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.559 s <<< FAILURE! - in Req 01-03
+com.betrybe.agrix.evaluation.FarmManagementTest.testFarmCreation  Time elapsed: 0.009 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <{size=2.5, name=Fazenda do Júlio, id=5}> but was: <{size=2.5, name=Fazenda do Júlio, id=5, crops=[]}>
+	at com.betrybe.agrix.evaluation.FarmManagementTest.testFarmCreation(FarmManagementTest.java:64)
+
